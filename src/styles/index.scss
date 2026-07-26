@@ -138,7 +138,7 @@ body {
     height: 134px;
   }
 
-  &__product {
+  &__title {
     margin: 0 0 4px;
     font-weight: 500;
     font-size: 12px;
@@ -233,7 +233,7 @@ body {
   &:hover {
     transform: scale(1.2);
 
-    .card__product {
+    .card__title {
       color: #34568b;
     }
   }
